@@ -38,7 +38,7 @@ Script for scATAC processing of gene activity score:
 
  6)add_geneActMatrix_ctl_asd_unionPeaks_moreCells_subeset.R
 
-Footprinting:
+# TOBIASFootprinting scripts:
  1)scATAcpseudo-bulk: export and filter bams files: 01_export_bams.R & 01_export_bams.R
  
  2)Footprinting: 03_TOBIAS_footprint.sh, 03_TOBIAS_BINDetect.sh, 03_TOBIAS_ATACCorrect.sh
